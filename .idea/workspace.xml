@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5be059c6-f136-4b5a-af42-954e98cebdca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hnbIEl8gLVvKTFErDDuPShugHk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.22680412" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Service1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-microservices" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.service1.Service1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5be059c6-f136-4b5a-af42-954e98cebdca" name="Default Changelist" comment="" />
+      <created>1600649721540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600649721540</updated>
+      <workItem from="1600649730738" duration="850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="53" key="#Project_Structure" timestamp="1600650456438">
+      <screen x="-1920" y="-130" width="1920" height="1050" />
+    </state>
+    <state x="-1368" y="53" key="#Project_Structure/0.0.1366.738/-1920.-130.1920.1050@-1920.-130.1920.1050" timestamp="1600650456438" />
+    <state x="-1181" y="136" key="FileChooserDialogImpl" timestamp="1600650582481">
+      <screen x="-1920" y="-130" width="1920" height="1050" />
+    </state>
+    <state x="-1181" y="136" key="FileChooserDialogImpl/0.0.1366.738/-1920.-130.1920.1050@-1920.-130.1920.1050" timestamp="1600650582481" />
+    <state x="-1578" y="97" key="new project wizard" timestamp="1600650584918">
+      <screen x="-1920" y="-130" width="1920" height="1050" />
+    </state>
+    <state x="-1578" y="97" key="new project wizard/0.0.1366.738/-1920.-130.1920.1050@-1920.-130.1920.1050" timestamp="1600650584918" />
+  </component>
+</project>
