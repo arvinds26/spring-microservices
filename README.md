@@ -12,7 +12,7 @@ pip install foobar
 
 ## Usage
 
-```python
+```java
 package in.mintset.data.proxy;
 
 import in.mintset.model.kite.OfflineData;
