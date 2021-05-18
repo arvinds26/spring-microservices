@@ -1,4 +1,4 @@
-[Netflix Architecture](http://localhost/)
+[Netflix Architecture](https://github.com/arvinds26/spring-microservices/wiki)
 
 
 
