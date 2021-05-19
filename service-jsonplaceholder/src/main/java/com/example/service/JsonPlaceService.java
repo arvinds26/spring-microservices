@@ -1,2 +1,7 @@
-package com.example.service;public class JsonPlaceService {
+package com.example.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class JsonPlaceService {
 }
